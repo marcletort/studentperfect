@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<h:html xmlns="http://www.w3.org/1999/xhtml"
+	xmlns:h="http://xmlns.jcp.org/jsf/html"
+	xmlns:f="http://xmlns.jcp.org/jsf/core">
+<h:head>
+	<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+	<title>authentification</title>
+</h:head>
+<h:body>
+	<!-- 	<form name="loginForm"> -->
+	<!-- 		Nom d'utilisateur : -->
+	<!-- 		<h:inputText name="j_username"></h:inputText> -->
+	<!-- 		Mot de passe : -->
+	<!-- 		<h:inputSecret name="j_password"></h:inputSecret> -->
+	<!-- 		<h:commandButton action="j_security_check" value="valider" -->
+	<!-- 			type="submit"></h:commandButton> -->
+	<!-- 	</form> -->
+	<br />
+	<br />
+	<br />
+	<form name="loginForm" action="j_security_check">
+
+		Autre méthode<br /> Nom d'utilisateur : 
+		<input type="text" name="j_username" size="25" /> Mot de passe : 
+			<input type="password" name="j_password" size="15" /> 
+			<input type="submit" value="Valider" />
+
+
+	</form>
+</h:body>
+</h:html>

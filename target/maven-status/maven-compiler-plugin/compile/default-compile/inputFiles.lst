@@ -1,0 +1,8 @@
+/home/yann/workspaces/workspaceJsfTomcat/SimpleFullMavenWarInjectJPA/src/main/java/org/formation/jsf/service/StudentService.java
+/home/yann/workspaces/workspaceJsfTomcat/SimpleFullMavenWarInjectJPA/src/main/java/org/formation/jsf/util/StudentDbUtil.java
+/home/yann/workspaces/workspaceJsfTomcat/SimpleFullMavenWarInjectJPA/src/main/java/org/formation/jsf/model/Student.java
+/home/yann/workspaces/workspaceJsfTomcat/SimpleFullMavenWarInjectJPA/src/main/java/org/formation/jsf/dao/StudentDao.java
+/home/yann/workspaces/workspaceJsfTomcat/SimpleFullMavenWarInjectJPA/src/main/java/org/formation/jsf/dao/IStudentDao.java
+/home/yann/workspaces/workspaceJsfTomcat/SimpleFullMavenWarInjectJPA/src/main/java/org/formation/jsf/view/StudentController.java
+/home/yann/workspaces/workspaceJsfTomcat/SimpleFullMavenWarInjectJPA/src/main/java/org/formation/jsf/service/IStudentService.java
+/home/yann/workspaces/workspaceJsfTomcat/SimpleFullMavenWarInjectJPA/src/main/java/org/formation/jsf/util/TestServlet.java
