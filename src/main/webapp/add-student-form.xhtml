@@ -13,6 +13,8 @@
 	<h:outputStylesheet library="css" name="style.css" />
 	<h:outputStylesheet library="css" name="add-student-style.css" />
 
+
+	<h:outputScript library="js" name="monscript.js" />
 </h:head>
 
 <h:body>
@@ -54,7 +56,12 @@
 
 				<h:outputLabel />
 				<h:commandButton value="Save" styleClass="save"
-					action="#{studentController.addStudent(student)}" />
+					action="#{studentController.addStudent(student)}" onclick="showMessage();" />
+
+
+
+			
+
 
 			</h:panelGrid>
 		</h:form>
